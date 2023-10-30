@@ -4,7 +4,7 @@
 
 # Table of Contents
 <ol type="1">
-  <li><a color="black" href="https://github.com/adityadalwadi1510/project_manager#introduction">Introduction</a></li>
+  <li>Introduction</li>(## Introduction)
   <li>Design
     <ol type="i">
       <li>Structure</li>
