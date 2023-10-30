@@ -31,3 +31,12 @@
     </ol>
   </li>
 </ol>
+
+## Introduction
+Welcome to our beginner-friendly REST API project, tailored for managing a specific shop's products and orders.
+
+Within this API, we developed essential functionalities to create and update shop information, add multiple products, and efficiently retrieve product data with pagination to minimize network bandwidth usage. It also provides the ability to update product details and mark items as out of stock.
+
+For order management, the API offers basic features, including adding orders, changing order statuses, and fetching orders based on specific dates.
+
+Explore the subsequent sections to understand the project's design, setup, and detailed documentation.
