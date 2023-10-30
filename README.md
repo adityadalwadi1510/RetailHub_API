@@ -4,7 +4,7 @@
 
 # Table of Contents
 <ol type="1">
-  <li>[Introduction](## Introduction)</li>
+  <li>Introduction</li>
   <li>Design
     <ol type="i">
       <li>Structure</li>
