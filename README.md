@@ -48,3 +48,11 @@ Module-level Design: To enhance module-level testing and reusability, we've enca
 
 File-level Design: We've named each file according to its primary functionality. This naming convention makes it a breeze to locate and work on specific features within the relevant module, ensuring an efficient development process.
 
+### Technology
+We primarily chose the **Flask framework** for our API development because of its lightweight nature and exceptional scalability, allowing us to adapt to varying levels of API traffic. Furthermore, our decision was influenced by the fact that **Python**, the language of choice, aligns with our future development plans. These key reasons underpin our selection of the Flask framework.
+
+### Database
+In this application, we've harnessed the power of PostgreSQL as our database. PostgreSQL not only offers all the features provided by MySQL but also boasts a strong reputation for reliability, feature robustness, and outstanding performance. This choice ensures our data storage is secure, efficient, and well-equipped to meet our application's needs.
+
+### Authentication and Authorization
+Authentication and authorization in our system are managed through the use of JWT (JSON Web Tokens). JWT tokens serve as a secure and efficient way to confirm the identity of users and control their access to various resources within the application. By leveraging JWT, we can validate user credentials, grant access to specific endpoints, and maintain a high level of security. This approach not only enhances the user experience but also strengthens the protection of sensitive data and resources throughout the application.
