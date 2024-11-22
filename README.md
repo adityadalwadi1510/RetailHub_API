@@ -13,7 +13,7 @@
       <li>Authentication and Authorization</li>
     </ol>
   </li>
-  <li>Getting Started
+<!--   <li>Getting Started
     <ol type="i">
       <li>Setup</li>
     </ol>
@@ -29,7 +29,7 @@
     <ol type="i">
       <li>Future Scope</li>
     </ol>
-  </li>
+  </li> -->
 </ol>
 
 ## Introduction
